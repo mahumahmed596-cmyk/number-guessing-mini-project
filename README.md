@@ -13,6 +13,7 @@ guess = int(input("Enter your guess: "))
 
 if guess == secret_number:
     print("Congratulations! You guessed the correct number.")
+    
 else:
     print("Wrong guess!")
     print("The correct number was:", secret_number)
