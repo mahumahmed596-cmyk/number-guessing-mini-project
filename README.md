@@ -2,6 +2,7 @@
 number guessing mini project
  
 import random
+
 secret_number = random.randint(1, 10)
 
 print("Welcome to Mini Number Guessing Game!")
