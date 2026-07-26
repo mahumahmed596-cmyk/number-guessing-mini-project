@@ -1,5 +1,6 @@
 # number-guessing-mini-project
 number guessing mini project
+ 
 import random
 secret_number = random.randint(1, 10)
 
